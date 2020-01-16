@@ -25,6 +25,11 @@
   top: 3.5em;
 }
 
+.row
+{
+  text-align: center;
+}
+
 .C
 {
   text-shadow: -2px -2px #222831;
